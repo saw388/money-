@@ -1,7 +1,7 @@
 {
   "vip_users": [
     {
-      "id": "UNKNOWN_ID",  // Placeholder for missing ID
+      "id": "UNKNOWN_ID",
       "month": "6",
       "start_date": "2025-06-11"
     },
